@@ -39,9 +39,12 @@ function App() {
         </header>
         <div className="busca-box">
           <div className="busca-container">
-            <input type="text" />
-            <button></button>
+            <input type="text"
+            placeholder='Digite o nome da cidade..'
+            />
+            <button>Buscar</button>
             </div>
+
         </div>
       </div>
      </div> 
